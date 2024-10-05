@@ -30,11 +30,11 @@ python setup.py
 
 5. Double click anywhere in ComfyUI and search DeepExtract node by typing it or right click anywhere and select `Add Node > DeepExtract > VocalAndSoundRemoverNode` node to using it.
 
-<img src="https://github.com/abdozmantar/ComfyUI-DeepExtract/blob/main/public/node_location.png?raw=true" alt="nodel location" width="100%"/>
+<img src="https://github.com/abdozmantar/ComfyUI-DeepExtract/blob/main/public/images/node_location.png?raw=true" alt="nodel location" width="100%"/>
 
 ##### OR
 
-<img src="https://github.com/abdozmantar/ComfyUI-DeepExtract/blob/main/public/node_search.png?raw=true" alt="nodel location" width="100%"/>
+<img src="https://github.com/abdozmantar/ComfyUI-DeepExtract/blob/main/public/images/node_search.png?raw=true" alt="nodel location" width="100%"/>
 
 ## Usage
 
@@ -51,7 +51,7 @@ To utilize the **DeepExtract** node, simply connect your audio input to the **Vo
 
 ## Structure
 
-<img src="https://github.com/abdozmantar/ComfyUI-DeepExtract/blob/main/public/node_structure.png?raw=true" alt="nodel location" width="100%"/>
+<img src="https://github.com/abdozmantar/ComfyUI-DeepExtract/blob/main/public/images/node_structure.png?raw=true" alt="nodel location" width="100%"/>
 
 ### Node Layout
 
