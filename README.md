@@ -30,6 +30,41 @@ python setup.py
 
 5. Double click anywhere in ComfyUI and search DeepExtract node by typing it or right click anywhere and select `Add Node > DeepExtract > VocalAndSoundRemoverNode` node to using it.
 
+<img src="https://github.com/abdozmantar/ComfyUI-DeepExtract/blob/main/public/node_location.png?raw=true" alt="nodel location" width="100%"/>
+
+##### OR
+
+<img src="https://github.com/abdozmantar/ComfyUI-DeepExtract/blob/main/public/node_search.png?raw=true" alt="nodel location" width="100%"/>
+
+## Usage
+
+### How to Use the DeepExtract Node
+
+To utilize the **DeepExtract** node, simply connect your audio input to the **VocalAndSoundRemoverNode**. Adjust the parameters to tailor the output to your needs. The node will process the audio and return isolated vocal and background tracks for further manipulation.
+
+### Example Workflow
+
+1. **Load an Audio File:** Begin by loading your mixed audio file into ComfyUI.
+2. **Add the Node:** Insert the **VocalAndSoundRemoverNode** into your workflow.
+3. **Connect Inputs and Outputs:** Link your audio source to the node and specify where to send the separated tracks.
+4. **Process the Audio:** Execute the workflow to separate the vocals and sounds effectively.
+
+## Structure
+
+<img src="https://github.com/abdozmantar/ComfyUI-DeepExtract/blob/main/public/node_structure.png?raw=true" alt="nodel location" width="100%"/>
+
+### Node Layout
+
+The **DeepExtract** node features an intuitive interface that allows for easy manipulation. The input section accepts mixed audio files, while the output section provides two distinct tracks: one for isolated vocals and another for the background sounds. This design facilitates seamless integration into your audio processing workflow.
+
+### Parameter Overview
+
+- **Input Sound:** This is where you connect the mixed audio file.
+- **Vocal Output:** This output provides the isolated vocal track.
+- **Background Output:** This output delivers the remaining instrumental sound.
+
+These additions, along with your original text, will create a clearer understanding of how to use the **DeepExtract** tool effectively!
+
 ## Contributing
 
 We welcome contributions from the community! If you'd like to enhance DeepExtract, please fork the repository and submit a pull request.
