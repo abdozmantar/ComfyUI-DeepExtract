@@ -1,0 +1,4 @@
+#Ignore Python cache and virtual environment directories
+__pycache__/
+models/
+test/
