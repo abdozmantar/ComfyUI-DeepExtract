@@ -80,7 +80,7 @@ We welcome contributions from the community! If you'd like to enhance DeepExtrac
 ### Author
 
 👤 **Abdullah Ozmantar**  
-[GitHub Profile](https://github.com/comfyui-abdozmantar)
+[GitHub Profile](https://github.com/abdozmantar)
 
 ## License
 
